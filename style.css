@@ -1,0 +1,15 @@
+.container {
+  height: 40vw;
+  width: 40vw;
+  margin: auto;
+  display: grid;
+  border: 1px solid black;
+}
+
+.square {
+  justify-items: stretch;
+}
+
+.clear {
+
+}
